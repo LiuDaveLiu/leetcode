@@ -16,10 +16,14 @@ class LinkedList:
 #%%
 # Driver code
 linkedList = LinkedList()
-linkedList.push(1)
-linkedList.push(2)
-linkedList.push(2)
-linkedList.push(1)
+linkedList.push(7)
+linkedList.push(7)
+linkedList.push(7)
+linkedList.push(7)
+# linkedList.push(1)
+# linkedList.push(2)
+# linkedList.push(2)
+# linkedList.push(1)
  
 print("Given linked list")
 print(linkedList)
